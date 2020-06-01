@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">myProject</string>
+
+    //buttons
+    <string name="sign_in_button">SIGN IN</string>
+    <string name="register_button">REGISTER</string>
+    <string name="contact_us_button">CONTACT US</string>
+    <string name="pricing_button">PRICING</string>
+    <string name="products_button">PRODUCTS</string>
+    <string name="team_button">TEAM</string>
+    <string name="feedback_button">FEEDBACKS</string>
+    <string name="customers_button">CUSTOMERS</string>
+    <string name="find_us_button">FIND US</string>
+    <string name="back_button">GO BACK</string>
+
+    //editText
+    <string name="enter_name">Name</string>
+    <string name="enter_username">Username</string>
+    <string name="enter_mail">Email</string>
+    <string name="enter_phone">Phone number</string>
+    <string name="enter_password">Password</string>
+    <string name="enter_feedback">Feedback</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_price">Price</string>
+    <string name="enter_description">Description</string>
+    <string name="all_fields_required"> All fields are required</string>
+    <string name="label_name"> Barbershop</string>
+
+
+
+</resources>
