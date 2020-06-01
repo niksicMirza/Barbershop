@@ -6,7 +6,7 @@ import androidx.room.Database;
 import androidx.room.Room;
 import androidx.room.RoomDatabase;
 
-@Database(entities = {Customers.class,FeedbackDetails.class, PriceDetails.class, TeamDetails.class, ProductDetails.class},version =11, exportSchema = false)
+@Database(entities = {Customers.class,FeedbackDetails.class, PriceDetails.class, TeamDetails.class, ProductDetails.class},version =12, exportSchema = false)
 public abstract class AppDatabase extends RoomDatabase {
     public abstract FeedbackDao feedbackDao();
     public abstract PriceDao priceDao();
