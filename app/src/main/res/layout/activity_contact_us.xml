@@ -39,9 +39,11 @@
         android:layout_height="wrap_content"
         android:gravity="start|top"
         android:lines="10" />
+
     <Button
         android:id="@+id/button_send"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="send" />
+        android:background="@drawable/login_button"
+        android:text="@string/send_button" />
 </LinearLayout>

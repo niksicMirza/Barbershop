@@ -12,6 +12,10 @@
     <string name="customers_button">CUSTOMERS</string>
     <string name="find_us_button">FIND US</string>
     <string name="back_button">GO BACK</string>
+    <string name="save_button">SAVE</string>
+    <string name="cancle_button">CANCLE</string>
+    <string name="send_button">SEND</string>
+
 
     //editText
     <string name="enter_name">Name</string>
